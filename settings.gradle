@@ -12,7 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "My Application"
-include ':app'
-include ':data'
-include ':domain'
+rootProject.name = Plugins.MyApplication.My
+ Plugins.MyApplication.app
+ Plugins.MyApplication.data
+ Plugins.MyApplication.domain
